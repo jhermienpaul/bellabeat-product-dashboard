@@ -4,7 +4,7 @@
   <i>Tableau dashboard analyzing Bellabeat Leaf smart device usage and wellness trends, like feature adoption, time-based activity and sleep patterns, user wellness profiles, and correlation insights</i>
   <br><br>
   <a href="https://public.tableau.com/app/profile/jhermienpaul" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau-blue?style=for-the-badge&logo=tableau" alt="View Dashboard on Tableau"/>
+    <img src="https://img.shields.io/badge/VIEW%20DASHBOARD%20ON%20TABLEAU-blue?style=for-the-badge&logo=tableau" alt="View Dashboard on Tableau"/>
   </a>
 </p>
 
